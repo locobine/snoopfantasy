@@ -1,0 +1,84 @@
+﻿  Timer.cpp
+  Personagem.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(180): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(190): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(206): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(229): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(236): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(257): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(262): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(300): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(305): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(310): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(315): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(381): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(395): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(408): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(424): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(425): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.cpp(428): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+  Projetil.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(46): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(67): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(73): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(140): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\projetil.cpp(145): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Musico.cpp
+  ListaPersonagens.cpp
+  Jogo.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(66): error C2660: 'Personagem::inicializar': function does not take 2 arguments
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(217): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(226): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(330): warning C4018: '<': signed/unsigned mismatch
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(518): error C2039: 'atualizar': is not a member of 'Personagem'
+  c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.h(26): note: see declaration of 'Personagem'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(519): error C2039: 'atualizar': is not a member of 'Personagem'
+  c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.h(26): note: see declaration of 'Personagem'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(520): error C2039: 'atualizar': is not a member of 'Personagem'
+  c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\personagem.h(26): note: see declaration of 'Personagem'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(528): warning C4018: '<': signed/unsigned mismatch
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(563): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\jogo.cpp(570): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Inimigo.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(133): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(158): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(214): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(219): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\inimigo.cpp(232): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ferreiro.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\ferreiro.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\ferreiro.cpp(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\ferreiro.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\ferreiro.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\ferreiro.cpp(130): warning C4305: 'argument': truncation from 'double' to 'float'
+  Collision.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\collision.cpp(138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Cacador.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\cacador.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\cacador.cpp(93): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\cacador.cpp(96): warning C4305: '=': truncation from 'double' to 'float'
+  Barbeiro.cpp
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\barbeiro.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\barbeiro.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\barbeiro.cpp(96): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\barbeiro.cpp(105): warning C4305: '=': truncation from 'double' to 'float'
+  Animation.cpp
+  AnimatedSprite.cpp
+  Generating Code...
+c:\users\locobine\documents\visual studio 2015\projects\tcc\snoop fantasy reborne 1.0 beta\snoopfantasyii\listapersonagens.cpp(197): warning C4715: 'ListaPersonagens::existeRef': not all control paths return a value

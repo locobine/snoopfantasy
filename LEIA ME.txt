@@ -1,0 +1,4 @@
+Perdão o atraso, eu tive q retirar muitas pastas de dentro do jogo, incluindo as libs da sfml, entao não vai estar compilando provavelmente, porém dá pra
+olhar o código, com as libs dava mais q 100 arquivos, ultrapassando o limite.
+Perdão a demora para postar também, o codigo estava com muitos erros e coisas desnecessarias, estava envergonhado, até a proxima semana (25/06) ele vai estar impecavel.
+Não rode o samuel pelo meu erro.
